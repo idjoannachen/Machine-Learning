@@ -1,7 +1,7 @@
 # Machine-Learning
 STAT 565 coursework, Fall 2020
 
-The course is more math focused.
+The course is mainly math focused.
 
 - HW 1: MLE, linear regression, KNN
 - HW 2: Multiclass classification, mixture of Gaussians, KNN
